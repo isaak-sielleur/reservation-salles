@@ -1,0 +1,34 @@
+Polices :
+
+    - lien d'integration : 
+        <link href="https://fonts.googleapis.com/css2?family=Bad+Script&family=Meddon&family=Sriracha&family=Tillana&display=swap" rel="stylesheet">
+
+    - font-family: 'Sriracha', cursive;
+        https://fonts.google.com/specimen/Sriracha?sidebar.open&category=Handwriting&selection.family=Sriracha
+    
+    - font-family: 'Bad Script', cursive;
+        https://fonts.google.com/specimen/Bad+Script?sidebar.open&category=Handwriting&selection.family=Bad+Script|Sriracha
+    
+    - font-family: 'Tillana', cursive;
+        https://fonts.google.com/specimen/Tillana?sidebar.open&category=Handwriting&selection.family=Bad+Script|Sriracha|Tillana
+
+    - font-family: 'Meddon', cursive;
+        https://fonts.google.com/specimen/Meddon?sidebar.open&category=Handwriting&selection.family=Bad+Script|Meddon|Sriracha|Tillana
+
+    1 = Titres
+    2 = Long textes
+    3 = forms et menu
+    4 = Nom entreprise + mots du gerant
+
+Couleurs :
+
+    - #FFD700 (or) TITRES
+    - #F1DABF (beige) MENU DEROULANT
+    - #7180AC (bleu) WALLPAPER ?
+    - #442B48 (violet) TEXTES ?
+    - #01200F (vert) TITRES ?
+    - #280003 (rouge) ?
+
+6 salles en tout (privé, public,  entreprise)
+
+Supperficie des salles : petite (100personnes), moyenne (200personnes), grande (500personnes), tres grande (600personnes), géante (1000personnes), ++ (2000personnes)
