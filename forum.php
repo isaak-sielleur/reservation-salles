@@ -13,10 +13,10 @@
         <link rel="shortcut icon" type="jpg" href="medias/icone.png"/>
     </head>
 
-    <body class="inscription">
+    <body class="forum">
         <?php include('header-footer/header.php'); ?>
 
-        <?php include('forms/forminscri.php'); ?>
+        <?php include('contenu/contenu-forum.php'); ?>
 
         <?php include('header-footer/footer.php'); ?>
     </body>
