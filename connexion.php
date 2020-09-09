@@ -1,26 +1,19 @@
-<?php
+<!DOCTYPE html>
 
-    session_start();
+<html lang="fr">
 
-?>
+<head>
+    <link rel="stylesheet" href="apparence/reservation.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bad+Script&family=Meddon&family=Courgette&family=Tillana&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
 
-<html>
+    <body class="body-connexion">
+        <?php include('content/header/header.php'); ?>
 
-    <head>
-        <link rel="stylesheet" type="text/css" href="apparence/forum.css">
-        <link href="https://fonts.googleapis.com/css2?family=Alice&family=Girassol&family=Josefin+Sans&display=swap" rel="stylesheet">
-        <title>Forum Doctor Who</title>
-        <link rel="shortcut icon" type="jpg" href="medias/icone.png"/>
-    </head>
-
-    <body class="connexion">
-        <main id="wrap">
-            <?php include('header-footer/header.php'); ?>
-
-            <?php include('forms/formconnexion.php'); ?>
-
-            <?php include('header-footer/footer.php'); ?>
-        </main>
+        <?php include('content/forms/form-connexion.php'); ?>
     </body>
 
 </html>
